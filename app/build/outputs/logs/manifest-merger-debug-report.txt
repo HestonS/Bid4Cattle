@@ -1,0 +1,71 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Heston\Desktop\Bid4Cattle\Bid4Cattle\app\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from C:\Users\Heston\Desktop\Bid4Cattle\Bid4Cattle\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from C:\Users\Heston\Desktop\Bid4Cattle\Bid4Cattle\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Heston\Desktop\Bid4Cattle\Bid4Cattle\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Heston\Desktop\Bid4Cattle\Bid4Cattle\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Heston\Desktop\Bid4Cattle\Bid4Cattle\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Heston\Desktop\Bid4Cattle\Bid4Cattle\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Heston\Desktop\Bid4Cattle\Bid4Cattle\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Heston\Desktop\Bid4Cattle\Bid4Cattle\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Heston\Desktop\Bid4Cattle\Bid4Cattle\app\src\main\AndroidManifest.xml:5:5-18:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Heston\.android\build-cache\470ec17903409042e547821b4b4b48d865310040\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Heston\.android\build-cache\1c7bb9ca49035dd09a425b12622d4e622ffa5cf4\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Heston\.android\build-cache\e9e9b3c037cb3d1f342918c31c27a8f87e3c5c50\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Heston\.android\build-cache\4b25830387e8aae293b6081f140c0ff5f3b46c2c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Heston\.android\build-cache\424852efeef261328a90839be8edc5e28c4c6515\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Heston\.android\build-cache\5d26865cfbd86aa4fb3944184f21d6b3705c53b7\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Heston\.android\build-cache\36ca6b51fd785b74dbb4c5abf7a4fb8eb8881083\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Heston\.android\build-cache\4c3eda00bc247148685109b00c0bccfebd3a61b0\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Heston\.android\build-cache\892c710bd1942bf382ea47595494c06136c0e98f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Heston\.android\build-cache\7ae93893701afdb5bd0813f75bb7b1f85434ccdb\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Heston\Desktop\Bid4Cattle\Bid4Cattle\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Heston\Desktop\Bid4Cattle\Bid4Cattle\app\src\main\AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from C:\Users\Heston\Desktop\Bid4Cattle\Bid4Cattle\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\Heston\Desktop\Bid4Cattle\Bid4Cattle\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\Heston\Desktop\Bid4Cattle\Bid4Cattle\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.bid4cattle.MainActivity
+ADDED from C:\Users\Heston\Desktop\Bid4Cattle\Bid4Cattle\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from C:\Users\Heston\Desktop\Bid4Cattle\Bid4Cattle\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Heston\Desktop\Bid4Cattle\Bid4Cattle\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Heston\Desktop\Bid4Cattle\Bid4Cattle\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from C:\Users\Heston\Desktop\Bid4Cattle\Bid4Cattle\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Heston\Desktop\Bid4Cattle\Bid4Cattle\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Users\Heston\Desktop\Bid4Cattle\Bid4Cattle\app\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from C:\Users\Heston\Desktop\Bid4Cattle\Bid4Cattle\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Heston\.android\build-cache\470ec17903409042e547821b4b4b48d865310040\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Heston\.android\build-cache\1c7bb9ca49035dd09a425b12622d4e622ffa5cf4\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Heston\.android\build-cache\e9e9b3c037cb3d1f342918c31c27a8f87e3c5c50\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Heston\.android\build-cache\4b25830387e8aae293b6081f140c0ff5f3b46c2c\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Heston\.android\build-cache\424852efeef261328a90839be8edc5e28c4c6515\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Heston\.android\build-cache\5d26865cfbd86aa4fb3944184f21d6b3705c53b7\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Heston\.android\build-cache\36ca6b51fd785b74dbb4c5abf7a4fb8eb8881083\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Heston\.android\build-cache\4c3eda00bc247148685109b00c0bccfebd3a61b0\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Heston\.android\build-cache\892c710bd1942bf382ea47595494c06136c0e98f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Heston\.android\build-cache\7ae93893701afdb5bd0813f75bb7b1f85434ccdb\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Heston\.android\build-cache\470ec17903409042e547821b4b4b48d865310040\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Heston\Desktop\Bid4Cattle\Bid4Cattle\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Heston\Desktop\Bid4Cattle\Bid4Cattle\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Heston\Desktop\Bid4Cattle\Bid4Cattle\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Heston\Desktop\Bid4Cattle\Bid4Cattle\app\src\main\AndroidManifest.xml
